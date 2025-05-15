@@ -10,6 +10,6 @@ This repo contains two projects
 
 <br>
 To test success senario
-    Start bother services hit user service http://localhost:8080/user-products<br> 
+    Start both the services and hit user service http://localhost:8080/user-products<br> 
 To test circuit breaker fallback scenario.
     Stop Product service and hit user service. Fallback methos should get trigger and can have successful response from API
