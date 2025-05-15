@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "product-service",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "disabled"
+	}
+}
